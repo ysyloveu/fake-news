@@ -12,7 +12,9 @@ A web scraping function which acts as a filter that scrapes only the paragraph e
 
 A grading function which calculates the percentage match from user’s input with an article.
 
-Ben function’s explanation
+An AI Credibility function is using AI to grade the article title and content.
+
+Output function that displays all the relevant data after running through all modules
 
 A google chrome extension that uses an AI to filter fake news.
 
