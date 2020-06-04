@@ -1,1 +1,0 @@
-docker run -p 8080:8080 -e "MB_KEY=OWRmNDMxNzkwMTNkNDVkMzBjZmRmNWJlY2ZhNjkwMGE.m0T3Qahe9Yz9hSc4CMcLEOE3_dA14UEd4ukmWxYcXe4FeL2sUtKg0Vecp4SqW55I6thPTF61oUmaivTJecmCcQ" machinebox/fakebox
