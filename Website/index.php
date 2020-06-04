@@ -26,7 +26,7 @@
                 </div>
     <br>
     <div class="searchbar">
-        <form autocomplete="off" action="Grading.php" method="get">
+        <form autocomplete="off" action="output.php" method="get">
             <div style="float:left;"> <p class="title">H O <a style="color: #28C8F9;">A</a> X</p>
                 <input type="text" id="search" name="query" placeholder="Enter a search phrase ...">
                 <button type="submit" id="search-btn" style="float:left"> <i class="fa fa-search" style="color:white;"></i> </button>
