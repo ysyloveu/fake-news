@@ -31,6 +31,8 @@ import the feedback file to the database.
 
 ## Docker
 
+Docker protects you. In some case there might be file corruption or anything that can cause your host machine in trouble, we use docker to simulate the environment since it acts like a virtual environment.
+
 Download docker from [here](https://www.docker.com/)
 
 After installing docker , open cmd and type "docker run -p 8080:8080 -e "MB_KEY=key" machinebox/fakebox"
